@@ -16,4 +16,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://study-finder-ru.lovable.app/sitemap.xml
+Sitemap: https://zakupki-kursy-mba.vercel.app/sitemap.xml
